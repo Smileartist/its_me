@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhruv Singh Rajpoot , @Smileartist 
 - 👀 I’m interested in ...AI automation, Machine Learning, Web Development, Android Development
-- 🌱 I’m currently learning ... Python, HTML5 , CSS , JS
+- 🌱 I’m currently learning ... Python, HTML5 , CSS , Java
 - 📫 How to reach me ... Twitter - @Dhananjay1307
 
 <!---
